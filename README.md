@@ -3,6 +3,5 @@ In these Project , I used multiple screen concept by which how to change one scr
 This is the basic project of "Udacity Android basic Nanodegree Program".
 In these Adapter (Bridge between the Adapter View (ListView) and the underlying data for that view. This is a very vital concept in Android App development) is also used to show the data in the music app.
 
+![merge_from_ofoct (1)](https://user-images.githubusercontent.com/47485482/87270656-6a208c80-c4ee-11ea-9e94-c32cbc3cefdd.jpg)
 
-![Screenshot_1594527390](https://user-images.githubusercontent.com/47485482/87238865-d5eaf280-c425-11ea-9a94-137c784d9e52.png)
-![Uploading Screenshot_1594527397.png…]()
